@@ -1287,7 +1287,7 @@ def stop_automation(user_id):
     st.session_state.automation_state.running = False
     db.set_automation_running(user_id, False)
 
-st.markdown('<div class="main-header"><img src="https://i.postimg.cc/VvB52mwW/In-Shot-20250608-213052061.jpg" class="prince-logo"><h1> E2EE OFFLINE</h1><p>𝘾𝙃𝙊𝙊𝙏 𝙆𝙊 𝙇𝘼𝙉𝘿 𝙎𝙀 𝘾𝙃𝙀𝙀𝙍𝙉𝙀𝙔 𝙒𝘼𝙇𝘼 𝘿𝘼𝙉𝘼𝙑 𝙆𝙄𝙉𝙂</p></div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header"><img src="https://i.postimg.cc/FRpvfpSB/66e9dfa2f252f556a36864eb-cartel-asian-woman-hd-photo-hot-babe-hq.jpg" class="prince-logo"><h1> E2EE OFFLINE</h1><p>FB AUTOMATIC END TO END ENCRYPTION TOOL BY QUEEN RAI</p></div>', unsafe_allow_html=True)
 
 if not st.session_state.logged_in:
     tab1, tab2 = st.tabs(["🔐 Login", "✨ Sign Up"])
