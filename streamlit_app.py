@@ -28,7 +28,7 @@ custom_css = """
     
     /* Background Image */
     .stApp {
-        background-image: url('https://i.postimg.cc/L51fQrQH/681be2a77443fb2f2f74fd42da1bc40f.jpg');
+        background-image: url('https://i.postimg.cc/FRpvfpSB/66e9dfa2f252f556a36864eb-cartel-asian-woman-hd-photo-hot-babe-hq.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
